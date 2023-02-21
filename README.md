@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Project's**
 
-- 👨‍💻 All of my projects are available at [https://github.com/phogat20](https://github.com/phogat20)
+- 👨‍💻 All of my projects are available at [https://chetansinghphogat.netlify.app/](https://chetansinghphogat.netlify.app/)
 
 - 💬 Ask me about **Java, SpringBoot, JS.**
 
 - 📫 How to reach me **chetansingh1230@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/phogat20/Resume-15-Feb-/blob/main/CHETAN%20SINGH%20PHOGAT(RESUME).pdf](https://github.com/phogat20/Resume-15-Feb-/blob/main/CHETAN%20SINGH%20PHOGAT(RESUME).pdf)
+- 📄 Know about my experiences [https://github.com/phogat20/Resume-15-Feb-/blob/main/Chetan-Singh-Phogat(Resume).pdf](https://github.com/phogat20/Resume-15-Feb-/blob/main/Chetan-Singh-Phogat(Resume).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
