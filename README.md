@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/phogatchetan" target="blank"><img src="https://img.shields.io/twitter/follow/phogatchetan?logo=twitter&style=for-the-badge" alt="phogatchetan" /></a> </p>
 
-- 🔭 I’m currently working on **Scrap Uncle Clone**
+- 🔭 I’m currently working on **Raddi Wala project**
 
 - 🌱 I’m currently learning **Angular**
 
