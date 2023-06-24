@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **chetansingh1230@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/phogat20/Resume-15-Feb-/blob/main/Chetan-Singh-Phogat(Resume).pdf](https://github.com/phogat20/Resume-15-Feb-/blob/main/Chetan-Singh-Phogat(Resume).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
