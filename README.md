@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phogat20" alt="phogat20" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/phogatchetan" target="blank"><img src="https://img.shields.io/twitter/follow/phogatchetan?logo=twitter&style=for-the-badge" alt="phogatchetan" /></a> </p>
+
 
 
 
